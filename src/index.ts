@@ -1,14 +1,14 @@
 import { isDataURL } from './helpers';
 
-export * from './interfaces/auth.interface';
-export * from './interfaces/review.interface';
-export * from './interfaces/buyer.interface';
-export * from './interfaces/chat.interface';
-export * from './interfaces/email.interface';
-export * from './interfaces/gig.interface';
-export * from './interfaces/order.interface';
-export * from './interfaces/search.interface';
-export * from './interfaces/seller.interface';
+export * from './auth.interface';
+export * from './review.interface';
+export * from './buyer.interface';
+export * from './chat.interface';
+export * from './email.interface';
+export * from './gig.interface';
+export * from './order.interface';
+export * from './search.interface';
+export * from './seller.interface';
 
 export { uploads, videoUpload } from './cloudinary-upload';
 
