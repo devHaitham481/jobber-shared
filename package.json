@@ -43,7 +43,7 @@
   },
   "types": "./src/index.d.ts",
   "dependencies": {
-    "@devhaitham481/jobber-shared": "npm:@devHaitham481/jobber-shared@^0.0.2",
+    "@devHaitham481/jobber-shared": "npm:@devHaitham481/jobber-shared@^0.0.2",
     "@elastic/elasticsearch": "^9.0.2",
     "cloudinary": "^2.6.1",
     "express": "^5.1.0",
